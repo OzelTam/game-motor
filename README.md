@@ -1,4 +1,4 @@
-### Half-cooked personal project to learn Rust and Game dev basics simultaneously.
+### Experimental personal project to learn Rust and Game dev basics simultaneously.
 
 
 ### Learning sources
